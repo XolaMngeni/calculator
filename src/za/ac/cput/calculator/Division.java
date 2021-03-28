@@ -1,5 +1,7 @@
 package za.ac.cput.calculator;
-
+/*
+* @author Xola Mngeni
+ */
 public class Division {
     /**
      *
